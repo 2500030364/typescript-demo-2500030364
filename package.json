@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript demo",
+  "keywords": [
+    "js",
+    "ts",
+    "react"
+  ],
+  "license": "ISC",
+  "author": "Tejaswi",
+  "type": "commonjs",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "klu": "node demo1.js",
+    "klef": "node demo2.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
